@@ -1,0 +1,4 @@
+@-moz-document url("about:newtab") {  
+    body {background-color: #000000 !important;}
+    body {background-image: url(firefox.png) !important;background-size: cover !important;background-position: contain !important;}
+}
